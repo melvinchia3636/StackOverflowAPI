@@ -1,0 +1,1470 @@
+{
+    "request": {
+        "url": "https://stackoverflow.com/questions/tagged/html css javascript?sort=MostVotes&filters=&page=1",
+        "method": "GET",
+        "params": {
+            "page": 1,
+            "sort_by": "MostVotes",
+            "filter_by": [],
+            "tags": [
+                "html",
+                "css",
+                "javascript"
+            ]
+        }
+    },
+    "response": {
+        "result_count": 131483,
+        "contents": [
+            {
+                "id": 23569441,
+                "link": "https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character",
+                "title": "Is it possible to apply CSS to half of a character?",
+                "excerpt": "What I am looking for:\n\nA way to style one HALF of a character. (In this case, half the letter being transparent)\n\nWhat I have currently searched for and tried (With no luck):\r\nMethods for styling ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2014-05-09 16:16:57Z",
+                "vote_count": 2916,
+                "answer_count": 20,
+                "view_count": 268146,
+                "author": {
+                    "id": "mathew-maclean",
+                    "link": "https://stackoverflow.com/users/3009513/mathew-maclean",
+                    "name": "Mathew MacLean",
+                    "avatar": "https://www.gravatar.com/avatar/480ff02965c8d38dbfd8c903bb662efe?s=32&d=identicon&r=PG&f=1",
+                    "reputation_score": 22850,
+                    "badges": {
+                        "gold": 3,
+                        "silver": 20,
+                        "bronze": 38
+                    }
+                }
+            },
+            {
+                "id": 442404,
+                "link": "https://stackoverflow.com/questions/442404/retrieve-the-position-x-y-of-an-html-element-relative-to-the-browser-window",
+                "title": "Retrieve the position (X,Y) of an HTML element relative to the browser window",
+                "excerpt": "I want to know how to get the X and Y position of HTML elements such as img and div in JavaScript relative to the browser window.",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "dom",
+                    "position"
+                ],
+                "time_posted": "2009-01-14 09:35:03Z",
+                "vote_count": 1761,
+                "answer_count": 27,
+                "view_count": 1606473,
+                "author": {
+                    "id": null,
+                    "link": null,
+                    "name": "monaung",
+                    "avatar": null,
+                    "reputation_score": null,
+                    "badges": {}
+                }
+            },
+            {
+                "id": 10732690,
+                "link": "https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header",
+                "title": "offsetting an html anchor to adjust for fixed header [duplicate]",
+                "excerpt": "I am trying to clean up the way my anchors work. I have a header that is fixed to the top of the page, so when you link to an anchor elsewhere in the page, the page jumps so the anchor is at the top ...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "anchor",
+                    "offset"
+                ],
+                "time_posted": "2012-05-24 07:04:12Z",
+                "vote_count": 1238,
+                "answer_count": 28,
+                "view_count": 646988,
+                "author": {
+                    "id": "matt-dryden",
+                    "link": "https://stackoverflow.com/users/1245870/matt-dryden",
+                    "name": "Matt Dryden",
+                    "avatar": "https://www.gravatar.com/avatar/8d2cac7eecef9a2d55a8b8f69d08c95d?s=32&d=identicon&r=PG",
+                    "reputation_score": 12335,
+                    "badges": {
+                        "gold": 3,
+                        "silver": 13,
+                        "bronze": 13
+                    }
+                }
+            },
+            {
+                "id": 3790935,
+                "link": "https://stackoverflow.com/questions/3790935/can-i-hide-the-html5-number-input-s-spin-box",
+                "title": "Can I hide the HTML5 number input\u2019s spin box?",
+                "excerpt": "Is there a consistent way across browsers to hide the new spin boxes that some browsers (such as Chrome) render for HTML input of type number?  I am looking for a CSS or JavaScript method to prevent ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "css",
+                    "html",
+                    "input",
+                    "numbers"
+                ],
+                "time_posted": "2010-09-24 20:58:22Z",
+                "vote_count": 1068,
+                "answer_count": 17,
+                "view_count": 637407,
+                "author": {
+                    "id": "alan",
+                    "link": "https://stackoverflow.com/users/345164/alan",
+                    "name": "Alan",
+                    "avatar": "https://www.gravatar.com/avatar/e934c9e532c150f9aa5349e442be2aee?s=32&d=identicon&r=PG",
+                    "reputation_score": 10904,
+                    "badges": {
+                        "gold": 3,
+                        "silver": 14,
+                        "bronze": 12
+                    }
+                }
+            },
+            {
+                "id": 2655925,
+                "link": "https://stackoverflow.com/questions/2655925/how-to-apply-important-using-css",
+                "title": "How to apply !important using .css()?",
+                "excerpt": "I am having trouble applying a style that is !important. I\u2019ve tried:\n\n$(\"#elem\").css(\"width\", \"100px !important\");\r\nThis does nothing; no width style whatsoever is applied. Is there a jQuery-ish way ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2010-04-16 20:31:13Z",
+                "vote_count": 773,
+                "answer_count": 31,
+                "view_count": 596669,
+                "author": {
+                    "id": "mkoryak",
+                    "link": "https://stackoverflow.com/users/26188/mkoryak",
+                    "name": "mkoryak",
+                    "avatar": "https://www.gravatar.com/avatar/64b452e2c24a0409558fbae7921e1c01?s=32&d=identicon&r=PG",
+                    "reputation_score": 53555,
+                    "badges": {
+                        "gold": 58,
+                        "silver": 193,
+                        "bronze": 252
+                    }
+                }
+            },
+            {
+                "id": 210717,
+                "link": "https://stackoverflow.com/questions/210717/using-jquery-to-center-a-div-on-the-screen",
+                "title": "Using jQuery to center a DIV on the screen",
+                "excerpt": "How do I go about setting a <div> in the center of the screen using jQuery?",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "layout"
+                ],
+                "time_posted": "2008-10-17 00:11:48Z",
+                "vote_count": 773,
+                "answer_count": 28,
+                "view_count": 518878,
+                "author": {
+                    "id": "craig",
+                    "link": "https://stackoverflow.com/users/27294/craig",
+                    "name": "Craig",
+                    "avatar": "https://i.stack.imgur.com/I41P3.jpg?s=32&g=1",
+                    "reputation_score": 34386,
+                    "badges": {
+                        "gold": 33,
+                        "silver": 107,
+                        "bronze": 191
+                    }
+                }
+            },
+            {
+                "id": 5898656,
+                "link": "https://stackoverflow.com/questions/5898656/check-if-an-element-contains-a-class-in-javascript",
+                "title": "Check if an element contains a class in JavaScript?",
+                "excerpt": "Using plain JavaScript (not jQuery), Is there any way to check if an element contains a class?\n\nCurrently, I'm doing this:\n\n\r\n\r\nvar test = document.getElementById(\"test\");\r\nvar testClass = test....",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "dom"
+                ],
+                "time_posted": "2011-05-05 13:40:19Z",
+                "vote_count": 691,
+                "answer_count": 29,
+                "view_count": 929991,
+                "author": {
+                    "id": "daguy",
+                    "link": "https://stackoverflow.com/users/778581/daguy",
+                    "name": "daGUY",
+                    "avatar": "https://www.gravatar.com/avatar/e7c2d2c20eee156eb26cc21ba5405b3a?s=32&d=identicon&r=PG",
+                    "reputation_score": 22068,
+                    "badges": {
+                        "gold": 27,
+                        "silver": 69,
+                        "bronze": 110
+                    }
+                }
+            },
+            {
+                "id": 2155737,
+                "link": "https://stackoverflow.com/questions/2155737/remove-css-class-from-element-with-javascript-no-jquery",
+                "title": "Remove CSS class from element with JavaScript (no jQuery) [duplicate]",
+                "excerpt": "Could anyone let me know how to remove a class on an element using JavaScript only?\nPlease do not give me an answer with jQuery as I can't use it, and I don't know anything about it.",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2010-01-28 15:43:04Z",
+                "vote_count": 628,
+                "answer_count": 11,
+                "view_count": 811908,
+                "author": {
+                    "id": "amra",
+                    "link": "https://stackoverflow.com/users/207847/amra",
+                    "name": "Amra",
+                    "avatar": "https://www.gravatar.com/avatar/88ed7484b7793fcacafbbdfebd462cd9?s=32&d=identicon&r=PG",
+                    "reputation_score": 22367,
+                    "badges": {
+                        "gold": 26,
+                        "silver": 78,
+                        "bronze": 91
+                    }
+                }
+            },
+            {
+                "id": 7117073,
+                "link": "https://stackoverflow.com/questions/7117073/add-a-tooltip-to-a-div",
+                "title": "Add a tooltip to a div",
+                "excerpt": "I have a div tag like this:\n\n<div>\n  <label>Name</label>\n  <input type=\"text\"/>\n</div>\r\nHow can I displaying a tooltip on :hover of the div, preferably with a fade in/out ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "tooltip"
+                ],
+                "time_posted": "2011-08-19 04:49:50Z",
+                "vote_count": 614,
+                "answer_count": 26,
+                "view_count": 749732,
+                "author": {
+                    "id": "user475685",
+                    "link": "https://stackoverflow.com/users/475685/user475685",
+                    "name": "user475685",
+                    "avatar": "https://www.gravatar.com/avatar/ea560822224e7e716a28ad1f89c151b2?s=32&d=identicon&r=PG",
+                    "reputation_score": 6801,
+                    "badges": {
+                        "gold": 7,
+                        "silver": 24,
+                        "bronze": 24
+                    }
+                }
+            },
+            {
+                "id": 14573223,
+                "link": "https://stackoverflow.com/questions/14573223/set-cookie-and-get-cookie-with-javascript",
+                "title": "Set cookie and get cookie with JavaScript [duplicate]",
+                "excerpt": "I'm trying to set a cookie depending on which CSS file I choose in my HTML. I have a form with a list of options, and different CSS files as values. When I choose a file, it should be saved to a ...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "cookies"
+                ],
+                "time_posted": "2013-01-28 23:34:38Z",
+                "vote_count": 590,
+                "answer_count": 4,
+                "view_count": 1185924,
+                "author": {
+                    "id": "drwooolie",
+                    "link": "https://stackoverflow.com/users/1420480/drwooolie",
+                    "name": "DrWooolie",
+                    "avatar": "https://www.gravatar.com/avatar/6ca0a9001ea184d5b37e4052f4cbdbd4?s=32&d=identicon&r=PG",
+                    "reputation_score": 6159,
+                    "badges": {
+                        "gold": 7,
+                        "silver": 16,
+                        "bronze": 18
+                    }
+                }
+            },
+            {
+                "id": 5445491,
+                "link": "https://stackoverflow.com/questions/5445491/height-equal-to-dynamic-width-css-fluid-layout",
+                "title": "Height equal to dynamic width (CSS fluid layout) [duplicate]",
+                "excerpt": "Is it possible to set same height as width (ratio 1:1)?\n\nExample\n\n+----------+\n| body     |\n| 1:3      |\n|          |\n| +------+ |\n| | div  | |\n| | 1:1  | |\n| +------+ |\n|          |\n|          |\n|    ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "responsive-design"
+                ],
+                "time_posted": "2011-03-26 21:35:42Z",
+                "vote_count": 482,
+                "answer_count": 9,
+                "view_count": 464509,
+                "author": {
+                    "id": "thomas-norman",
+                    "link": "https://stackoverflow.com/users/678411/thomas-norman",
+                    "name": "Thomas Norman",
+                    "avatar": "https://www.gravatar.com/avatar/de5f6537b65c624431b16c8f57bbe3c1?s=32&d=identicon&r=PG",
+                    "reputation_score": 4823,
+                    "badges": {
+                        "gold": 3,
+                        "silver": 12,
+                        "bronze": 4
+                    }
+                }
+            },
+            {
+                "id": 524696,
+                "link": "https://stackoverflow.com/questions/524696/how-to-create-a-style-tag-with-javascript",
+                "title": "How to create a <style> tag with Javascript?",
+                "excerpt": "I'm looking for a way to insert a <style> tag into an HTML page with JavaScript.\n\nThe best way I found so far:\n\nvar divNode = document.createElement(\"div\");\ndivNode.innerHTML = \"<br><...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2009-02-07 22:12:30Z",
+                "vote_count": 361,
+                "answer_count": 15,
+                "view_count": 347171,
+                "author": {
+                    "id": null,
+                    "link": null,
+                    "name": "Arend",
+                    "avatar": null,
+                    "reputation_score": null,
+                    "badges": {}
+                }
+            },
+            {
+                "id": 15615552,
+                "link": "https://stackoverflow.com/questions/15615552/get-div-height-with-plain-javascript",
+                "title": "Get div height with plain JavaScript",
+                "excerpt": "Any ideas on how to get a div's height without using jQuery?\nI was searching Stack Overflow for this question and it seems like every answer is pointing to jQuery's .height().\nI tried something like ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2013-03-25 12:58:14Z",
+                "vote_count": 346,
+                "answer_count": 10,
+                "view_count": 557918,
+                "author": {
+                    "id": "lwiii",
+                    "link": "https://stackoverflow.com/users/1854259/lwiii",
+                    "name": "lwiii",
+                    "avatar": "https://www.gravatar.com/avatar/ebeae22158e6862d30ffd8e6c7deb3cb?s=32&d=identicon&r=PG",
+                    "reputation_score": 3989,
+                    "badges": {
+                        "gold": 5,
+                        "silver": 16,
+                        "bronze": 17
+                    }
+                }
+            },
+            {
+                "id": 574944,
+                "link": "https://stackoverflow.com/questions/574944/how-to-load-up-css-files-using-javascript",
+                "title": "How to load up CSS files using Javascript?",
+                "excerpt": "Is it possible to import css stylesheets into a html page using Javascript? If so, how can it be done?\n\nP.S the javascript will be hosted on my site, but I want users to be able to put in the <head&...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "dhtml"
+                ],
+                "time_posted": "2009-02-22 13:48:00Z",
+                "vote_count": 335,
+                "answer_count": 20,
+                "view_count": 516689,
+                "author": {
+                    "id": "click-upvote",
+                    "link": "https://stackoverflow.com/users/49153/click-upvote",
+                    "name": "Click Upvote",
+                    "avatar": "https://www.gravatar.com/avatar/833df8cee775eea743cb1172dfcd3809?s=32&d=identicon&r=PG",
+                    "reputation_score": 231329,
+                    "badges": {
+                        "gold": 251,
+                        "silver": 550,
+                        "bronze": 729
+                    }
+                }
+            },
+            {
+                "id": 5199902,
+                "link": "https://stackoverflow.com/questions/5199902/isnt-it-silly-that-a-tiny-favicon-requires-yet-another-http-request-how-can-i",
+                "title": "Isn't it silly that a tiny favicon requires yet another HTTP request? How can I put the favicon into a sprite?",
+                "excerpt": "Everybody knows how to set up a favicon.ico link in their HTML:\n<link rel=\"shortcut icon\" href=\"http://hi.org/icon.ico\" type=\"image/x-icon\">\n\nBut it's silly that ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "performance",
+                    "favicon"
+                ],
+                "time_posted": "2011-03-04 22:17:52Z",
+                "vote_count": 332,
+                "answer_count": 14,
+                "view_count": 50996,
+                "author": {
+                    "id": "sam",
+                    "link": "https://stackoverflow.com/users/509670/sam",
+                    "name": "Sam",
+                    "avatar": "https://www.gravatar.com/avatar/aa1b1d32f11ffbc82d15a15961dcaf48?s=32&d=identicon&r=PG",
+                    "reputation_score": 15165,
+                    "badges": {
+                        "gold": 23,
+                        "silver": 85,
+                        "bronze": 133
+                    }
+                }
+            },
+            {
+                "id": 10276133,
+                "link": "https://stackoverflow.com/questions/10276133/how-to-disable-html-links",
+                "title": "How to disable HTML links",
+                "excerpt": "I have a link button inside a <td> which I have to disable. This works on IE but not working in Firefox and Chrome.\nStructure is - Link inside a <td>. I cannot add any container in the <...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2012-04-23 07:02:19Z",
+                "vote_count": 277,
+                "answer_count": 14,
+                "view_count": 441614,
+                "author": {
+                    "id": "ankit",
+                    "link": "https://stackoverflow.com/users/329755/ankit",
+                    "name": "Ankit",
+                    "avatar": "https://www.gravatar.com/avatar/d418db6d2c3ed16cc4fdb8218a0de36d?s=32&d=identicon&r=PG",
+                    "reputation_score": 5893,
+                    "badges": {
+                        "gold": 7,
+                        "silver": 45,
+                        "bronze": 74
+                    }
+                }
+            },
+            {
+                "id": 20728150,
+                "link": "https://stackoverflow.com/questions/20728150/unusual-shape-of-a-textarea",
+                "title": "Unusual shape of a textarea?",
+                "excerpt": "Usually textareas are rectangular or square, like this: \r\nBut I want a custom-shaped textarea, like this, for example: \r\nHow is this possible?",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2013-12-22 09:53:51Z",
+                "vote_count": 274,
+                "answer_count": 10,
+                "view_count": 13483,
+                "author": {
+                    "id": "paranoid",
+                    "link": "https://stackoverflow.com/users/2986493/paranoid",
+                    "name": "Paranoid",
+                    "avatar": "https://i.stack.imgur.com/w3Zz1.jpg?s=32&g=1",
+                    "reputation_score": 1883,
+                    "badges": {
+                        "gold": 4,
+                        "silver": 14,
+                        "bronze": 17
+                    }
+                }
+            },
+            {
+                "id": 18614301,
+                "link": "https://stackoverflow.com/questions/18614301/keep-overflow-div-scrolled-to-bottom-unless-user-scrolls-up",
+                "title": "Keep overflow div scrolled to bottom unless user scrolls up",
+                "excerpt": "I have a div that is only 300 pixels big and I want it to when the page loads scroll to the bottom of the content. This div has content dynamically added to it and needs to stay scrolled all the way ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "scroll"
+                ],
+                "time_posted": "2013-09-04 12:49:42Z",
+                "vote_count": 271,
+                "answer_count": 16,
+                "view_count": 304182,
+                "author": {
+                    "id": "robert-e-mcintosh",
+                    "link": "https://stackoverflow.com/users/1842227/robert-e-mcintosh",
+                    "name": "Robert E. McIntosh",
+                    "avatar": "https://www.gravatar.com/avatar/509c36a417ef03347b6ca453e712c2b2?s=32&d=identicon&r=PG",
+                    "reputation_score": 4177,
+                    "badges": {
+                        "gold": 3,
+                        "silver": 23,
+                        "bronze": 32
+                    }
+                }
+            },
+            {
+                "id": 3012716,
+                "link": "https://stackoverflow.com/questions/3012716/css-how-to-remove-pseudo-elements-after-before",
+                "title": "CSS: How to remove pseudo elements (after, before,\u2026)?",
+                "excerpt": "I would like to use a switch for the layout of paragraph tags on a webpage.\n\nI use the after pseudoelement:\n\np:after {content: url(\"../img/paragraph.gif\");}\r\nNow I need to remove this CSS code from ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "pseudo-element"
+                ],
+                "time_posted": "2010-06-10 08:16:06Z",
+                "vote_count": 265,
+                "answer_count": 8,
+                "view_count": 236792,
+                "author": {
+                    "id": "thariama",
+                    "link": "https://stackoverflow.com/users/346063/thariama",
+                    "name": "Thariama",
+                    "avatar": "https://i.stack.imgur.com/Riibs.png?s=32&g=1",
+                    "reputation_score": 47304,
+                    "badges": {
+                        "gold": 11,
+                        "silver": 124,
+                        "bronze": 146
+                    }
+                }
+            },
+            {
+                "id": 5867985,
+                "link": "https://stackoverflow.com/questions/5867985/full-screen-iframe-with-a-height-of-100",
+                "title": "Full-screen iframe with a height of 100%",
+                "excerpt": "Is iframe height=100% supported in all browsers?\n\nI am using doctype as:\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"&...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "iframe",
+                    "html-frames"
+                ],
+                "time_posted": "2011-05-03 10:09:31Z",
+                "vote_count": 262,
+                "answer_count": 18,
+                "view_count": 831289,
+                "author": {
+                    "id": "testndtv",
+                    "link": "https://stackoverflow.com/users/485743/testndtv",
+                    "name": "testndtv",
+                    "avatar": "https://www.gravatar.com/avatar/aafe61931088ccfcf377bdad1a55a707?s=32&d=identicon&r=PG",
+                    "reputation_score": 42968,
+                    "badges": {
+                        "gold": 86,
+                        "silver": 264,
+                        "bronze": 391
+                    }
+                }
+            },
+            {
+                "id": 2345784,
+                "link": "https://stackoverflow.com/questions/2345784/jquery-get-height-of-hidden-element-in-jquery",
+                "title": "jQuery: Get height of hidden element in jQuery",
+                "excerpt": "I need to get height of an element that is within a div that is hidden. Right now I show the div, get the height, and hide the parent div. This seems a bit silly. Is there a better way?\n\nI'm using ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2010-02-27 00:52:43Z",
+                "vote_count": 257,
+                "answer_count": 14,
+                "view_count": 185484,
+                "author": {
+                    "id": "mkoryak",
+                    "link": "https://stackoverflow.com/users/26188/mkoryak",
+                    "name": "mkoryak",
+                    "avatar": "https://www.gravatar.com/avatar/64b452e2c24a0409558fbae7921e1c01?s=32&d=identicon&r=PG",
+                    "reputation_score": 53555,
+                    "badges": {
+                        "gold": 58,
+                        "silver": 193,
+                        "bronze": 252
+                    }
+                }
+            },
+            {
+                "id": 1795438,
+                "link": "https://stackoverflow.com/questions/1795438/load-and-execution-sequence-of-a-web-page",
+                "title": "Load and execution sequence of a web page?",
+                "excerpt": "I have done some web based projects, but I don't think too much about the load and execution sequence of an ordinary web page. But now I need to know detail. It's hard to find answers from Google or ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2009-11-25 08:26:32Z",
+                "vote_count": 248,
+                "answer_count": 7,
+                "view_count": 153711,
+                "author": {
+                    "id": "zhu-tao",
+                    "link": "https://stackoverflow.com/users/125633/zhu-tao",
+                    "name": "Zhu Tao",
+                    "avatar": "https://www.gravatar.com/avatar/c4137d89b373ca5485defc37354034bc?s=32&d=identicon&r=PG",
+                    "reputation_score": 7171,
+                    "badges": {
+                        "gold": 8,
+                        "silver": 32,
+                        "bronze": 36
+                    }
+                }
+            },
+            {
+                "id": 18568736,
+                "link": "https://stackoverflow.com/questions/18568736/how-to-hide-element-using-twitter-bootstrap-and-show-it-using-jquery",
+                "title": "How to hide element using Twitter Bootstrap and show it using jQuery?",
+                "excerpt": "Let's say I create an HTML element like this,\n\n<div id=\"my-div\" class=\"hidden\">Hello, TB3</div>\n<div id=\"my-div\" class=\"hide\">Hello, TB4</div>\n<div id=\"my-div\" class=\"d-none\"...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "twitter-bootstrap"
+                ],
+                "time_posted": "2013-09-02 08:30:54Z",
+                "vote_count": 247,
+                "answer_count": 21,
+                "view_count": 371978,
+                "author": {
+                    "id": "psylosss",
+                    "link": "https://stackoverflow.com/users/2717270/psylosss",
+                    "name": "psylosss",
+                    "avatar": "https://www.gravatar.com/avatar/3e0ea12e3069f14e14570f312b59423d?s=32&d=identicon&r=PG",
+                    "reputation_score": 3269,
+                    "badges": {
+                        "gold": 3,
+                        "silver": 13,
+                        "bronze": 24
+                    }
+                }
+            },
+            {
+                "id": 5474871,
+                "link": "https://stackoverflow.com/questions/5474871/html-how-can-i-show-tooltip-only-when-ellipsis-is-activated",
+                "title": "HTML - how can I show tooltip ONLY when ellipsis is activated",
+                "excerpt": "I have got a span with dynamic data in my page, with ellipsis style.\n\n.my-class\n{\n  text-overflow: ellipsis;\n  overflow: hidden;\n  white-space: nowrap;  \n  width: 71px;\n}\r\n<span id=\"myId\" class=\"my-...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "tooltip",
+                    "ellipsis"
+                ],
+                "time_posted": "2011-03-29 15:18:59Z",
+                "vote_count": 223,
+                "answer_count": 14,
+                "view_count": 158956,
+                "author": {
+                    "id": "spiderman",
+                    "link": "https://stackoverflow.com/users/252679/spiderman",
+                    "name": "Spiderman",
+                    "avatar": "https://www.gravatar.com/avatar/0676d0c70b0b7b274ee64b5babaa29c8?s=32&d=identicon&r=PG",
+                    "reputation_score": 7964,
+                    "badges": {
+                        "gold": 13,
+                        "silver": 43,
+                        "bronze": 56
+                    }
+                }
+            },
+            {
+                "id": 3269136,
+                "link": "https://stackoverflow.com/questions/3269136/how-to-add-style-displayblock-to-an-element-using-jquery",
+                "title": "How to add `style=display:\u201cblock\u201d` to an element using jQuery?",
+                "excerpt": "How to add style=display:\"block\" to an element in jQuery?",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2010-07-16 21:55:27Z",
+                "vote_count": 222,
+                "answer_count": 4,
+                "view_count": 578089,
+                "author": {
+                    "id": "someone",
+                    "link": "https://stackoverflow.com/users/400440/someone",
+                    "name": "Someone",
+                    "avatar": "https://www.gravatar.com/avatar/84f0e32d74c7077c56fae7775e0eb509?s=32&d=identicon&r=PG",
+                    "reputation_score": 9855,
+                    "badges": {
+                        "gold": 23,
+                        "silver": 62,
+                        "bronze": 98
+                    }
+                }
+            },
+            {
+                "id": 8701754,
+                "link": "https://stackoverflow.com/questions/8701754/just-disable-scroll-not-hide-it",
+                "title": "Just disable scroll not hide it?",
+                "excerpt": "I'm trying to disable the html/body scrollbar of the parent while I'm using a lightbox. The main word here is disable. I do not want to hide it with overflow: hidden;.\n\nThe reason for this is that ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2012-01-02 14:01:46Z",
+                "vote_count": 213,
+                "answer_count": 20,
+                "view_count": 201813,
+                "author": {
+                    "id": "dejan-s",
+                    "link": "https://stackoverflow.com/users/148601/dejan-s",
+                    "name": "Dejan.S",
+                    "avatar": "https://i.stack.imgur.com/QUAPV.jpg?s=32&g=1",
+                    "reputation_score": 15748,
+                    "badges": {
+                        "gold": 20,
+                        "silver": 63,
+                        "bronze": 104
+                    }
+                }
+            },
+            {
+                "id": 25258921,
+                "link": "https://stackoverflow.com/questions/25258921/simulating-tremor-from-e-g-parkinsons-disease-with-the-mouse-on-a-webpage",
+                "title": "Simulating tremor (from e.g. Parkinson's Disease) with the mouse on a webpage?",
+                "excerpt": "I'm working for a foundation that raises awareness for accessibility in the internet. For a presentation, we want to offer a small workshop that simulates different disabilities/impairments to people. ...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "accessibility",
+                    "simulation"
+                ],
+                "time_posted": "2014-08-12 07:52:20Z",
+                "vote_count": 205,
+                "answer_count": 13,
+                "view_count": 9917,
+                "author": {
+                    "id": "joshua-muheim",
+                    "link": "https://stackoverflow.com/users/1439143/joshua-muheim",
+                    "name": "Joshua Muheim",
+                    "avatar": "https://i.stack.imgur.com/RxFne.png?s=32&g=1",
+                    "reputation_score": 10683,
+                    "badges": {
+                        "gold": 6,
+                        "silver": 60,
+                        "bronze": 126
+                    }
+                }
+            },
+            {
+                "id": 4211909,
+                "link": "https://stackoverflow.com/questions/4211909/disable-dragging-an-image-from-an-html-page",
+                "title": "Disable dragging an image from an HTML page",
+                "excerpt": "I need to put an image in my page. I want to disable dragging of that image. I am trying lot of things but no help. Can somebody help me out ?\n\nI don't want to keep that image as a background-image ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "image"
+                ],
+                "time_posted": "2010-11-18 05:17:22Z",
+                "vote_count": 204,
+                "answer_count": 25,
+                "view_count": 232484,
+                "author": {
+                    "id": "user-1034",
+                    "link": "https://stackoverflow.com/users/351754/user-1034",
+                    "name": "User 1034",
+                    "avatar": "https://www.gravatar.com/avatar/e5937acc6ebb2ceaabd8a9f50c968870?s=32&d=identicon&r=PG",
+                    "reputation_score": 8045,
+                    "badges": {
+                        "gold": 25,
+                        "silver": 66,
+                        "bronze": 88
+                    }
+                }
+            },
+            {
+                "id": 5225597,
+                "link": "https://stackoverflow.com/questions/5225597/set-timeout-for-ajax-jquery",
+                "title": "Set timeout for ajax (jQuery)",
+                "excerpt": "$.ajax({\n    url: \"test.html\",\n    error: function(){\n        //do something\n    },\n    success: function(){\n        //do something\n    }\n});\r\nSometimes success function works good, sometimes not. \n\n...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "ajax"
+                ],
+                "time_posted": "2011-03-07 21:39:40Z",
+                "vote_count": 203,
+                "answer_count": 4,
+                "view_count": 436644,
+                "author": {
+                    "id": "james",
+                    "link": "https://stackoverflow.com/users/398431/james",
+                    "name": "James",
+                    "avatar": "https://www.gravatar.com/avatar/eda8735f0de2d2ebee92d83f3b53eb3c?s=32&d=identicon&r=PG",
+                    "reputation_score": 34611,
+                    "badges": {
+                        "gold": 52,
+                        "silver": 124,
+                        "bronze": 159
+                    }
+                }
+            },
+            {
+                "id": 6258521,
+                "link": "https://stackoverflow.com/questions/6258521/clear-icon-inside-input-text",
+                "title": "Clear icon inside input text",
+                "excerpt": "Is there a quick way to create an input text element with an icon on the right to clear the input element itself (like the google search box)?\n\nI looked around but I only found how to put an icon as ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2011-06-06 22:00:35Z",
+                "vote_count": 200,
+                "answer_count": 16,
+                "view_count": 277861,
+                "author": {
+                    "id": "giovanni-di-milia",
+                    "link": "https://stackoverflow.com/users/257092/giovanni-di-milia",
+                    "name": "Giovanni Di Milia",
+                    "avatar": "https://www.gravatar.com/avatar/5abf82f5bdad70b7e9d977dccb55bd80?s=32&d=identicon&r=PG",
+                    "reputation_score": 11090,
+                    "badges": {
+                        "gold": 11,
+                        "silver": 47,
+                        "bronze": 65
+                    }
+                }
+            },
+            {
+                "id": 12232784,
+                "link": "https://stackoverflow.com/questions/12232784/how-to-develop-desktop-apps-using-html-css-javascript",
+                "title": "How to develop Desktop Apps using HTML/CSS/JavaScript? [closed]",
+                "excerpt": "First, I'm not interested in doing this professionally. I am a web developer, a coworker of mine recently left for Spotify and said he will be working mostly in JavaScript for the Spotify Desktop app. ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "desktop-application"
+                ],
+                "time_posted": "2012-09-02 01:32:53Z",
+                "vote_count": 194,
+                "answer_count": 9,
+                "view_count": 162281,
+                "author": {
+                    "id": null,
+                    "link": null,
+                    "name": "user967451",
+                    "avatar": null,
+                    "reputation_score": null,
+                    "badges": {}
+                }
+            },
+            {
+                "id": 3392493,
+                "link": "https://stackoverflow.com/questions/3392493/adjust-width-of-input-field-to-its-input",
+                "title": "Adjust width of input field to its input",
+                "excerpt": "<html>\n  <head>\n  </head>\n  <body>\n    <input type=\"text\" value=\"1\" style=\"min-width:1px;\" />\n  </body>\n</html>\r\nThis is my code and it is not working. Is ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2010-08-02 23:11:08Z",
+                "vote_count": 193,
+                "answer_count": 29,
+                "view_count": 310578,
+                "author": {
+                    "id": "kerc",
+                    "link": "https://stackoverflow.com/users/409131/kerc",
+                    "name": "Kerc",
+                    "avatar": "https://www.gravatar.com/avatar/6aecb78fdbf1d117123d9c5a5904be7c?s=32&d=identicon&r=PG",
+                    "reputation_score": 1953,
+                    "badges": {
+                        "gold": 2,
+                        "silver": 12,
+                        "bronze": 5
+                    }
+                }
+            },
+            {
+                "id": 7738117,
+                "link": "https://stackoverflow.com/questions/7738117/html-text-overflow-ellipsis-detection",
+                "title": "HTML text-overflow ellipsis detection",
+                "excerpt": "I have a collection of block elements on a page. They all have the CSS rules white-space, overflow, text-overflow set so that overflowing text is trimmed and an ellipsis is used.\n\nHowever, not all the ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "ellipsis"
+                ],
+                "time_posted": "2011-10-12 09:43:26Z",
+                "vote_count": 193,
+                "answer_count": 13,
+                "view_count": 105112,
+                "author": {
+                    "id": "deanoj",
+                    "link": "https://stackoverflow.com/users/575623/deanoj",
+                    "name": "deanoj",
+                    "avatar": "https://www.gravatar.com/avatar/369654a36f4113deccff1fce13f70086?s=32&d=identicon&r=PG",
+                    "reputation_score": 2321,
+                    "badges": {
+                        "gold": 2,
+                        "silver": 15,
+                        "bronze": 11
+                    }
+                }
+            },
+            {
+                "id": 10721884,
+                "link": "https://stackoverflow.com/questions/10721884/render-html-to-an-image",
+                "title": "Render HTML to an image",
+                "excerpt": "Is there a way to render html to image like PNG? I know that it is possible with canvas but I would like to render standard html element like div for example.",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "image",
+                    "render"
+                ],
+                "time_posted": "2012-05-23 14:19:05Z",
+                "vote_count": 190,
+                "answer_count": 17,
+                "view_count": 339323,
+                "author": {
+                    "id": "martin-delille",
+                    "link": "https://stackoverflow.com/users/118125/martin-delille",
+                    "name": "Martin Delille",
+                    "avatar": "https://www.gravatar.com/avatar/617e5dd459d1527261644fb4adf3a41f?s=32&d=identicon&r=PG",
+                    "reputation_score": 9059,
+                    "badges": {
+                        "gold": 11,
+                        "silver": 54,
+                        "bronze": 117
+                    }
+                }
+            },
+            {
+                "id": 1191113,
+                "link": "https://stackoverflow.com/questions/1191113/how-to-ensure-a-select-form-field-is-submitted-when-it-is-disabled",
+                "title": "How to ensure a <select> form field is submitted when it is disabled?",
+                "excerpt": "I have a select form field that I want to mark as \"readonly\", as in the user cannot modify the value, but the value is still submitted with the form.  Using the disabled attribute prevents the user ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "forms",
+                    "html-select"
+                ],
+                "time_posted": "2009-07-27 23:01:59Z",
+                "vote_count": 189,
+                "answer_count": 15,
+                "view_count": 210371,
+                "author": {
+                    "id": "marquis-wang",
+                    "link": "https://stackoverflow.com/users/110264/marquis-wang",
+                    "name": "Marquis Wang",
+                    "avatar": "https://www.gravatar.com/avatar/302fc648681a1d7ca4fe01373f02f520?s=32&d=identicon&r=PG",
+                    "reputation_score": 10146,
+                    "badges": {
+                        "gold": 4,
+                        "silver": 27,
+                        "bronze": 24
+                    }
+                }
+            },
+            {
+                "id": 17772260,
+                "link": "https://stackoverflow.com/questions/17772260/textarea-auto-height",
+                "title": "Textarea Auto height [duplicate]",
+                "excerpt": "I want to make height of textarea equal to height of the text within it (And remove the scroll bar)\n\nHTML\n\n<textarea id=\"note\">SOME TEXT</textarea>\r\nCSS\n\ntextarea#note {\n    width:100%;\n   ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2013-07-21 12:19:16Z",
+                "vote_count": 188,
+                "answer_count": 8,
+                "view_count": 431702,
+                "author": {
+                    "id": "mohammad-mahdi-naderi",
+                    "link": "https://stackoverflow.com/users/2602762/mohammad-mahdi-naderi",
+                    "name": "Mohammad Mahdi Naderi",
+                    "avatar": "https://www.gravatar.com/avatar/e7f884524b9fe2b2f36713c01b067f26?s=32&d=identicon&r=PG",
+                    "reputation_score": 2399,
+                    "badges": {
+                        "gold": 2,
+                        "silver": 11,
+                        "bronze": 9
+                    }
+                }
+            },
+            {
+                "id": 16214326,
+                "link": "https://stackoverflow.com/questions/16214326/bootstrap-dropdown-with-hover",
+                "title": "Bootstrap Dropdown with Hover",
+                "excerpt": "OK, so what I need is fairly straightforward.\n\nI have set up a navbar with some dropdown menus in it (using class=\"dropdown-toggle\" data-toggle=\"dropdown\"), and it works fine.\n\nThe thing is it works \"...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "twitter-bootstrap"
+                ],
+                "time_posted": "2013-04-25 12:08:37Z",
+                "vote_count": 187,
+                "answer_count": 20,
+                "view_count": 305623,
+                "author": {
+                    "id": "dr-kameleon",
+                    "link": "https://stackoverflow.com/users/1270812/dr-kameleon",
+                    "name": "Dr.Kameleon",
+                    "avatar": "https://i.stack.imgur.com/LmoZ6.jpg?s=32&g=1",
+                    "reputation_score": 21296,
+                    "badges": {
+                        "gold": 19,
+                        "silver": 99,
+                        "bronze": 207
+                    }
+                }
+            },
+            {
+                "id": 1038727,
+                "link": "https://stackoverflow.com/questions/1038727/how-to-get-browser-width-using-javascript-code",
+                "title": "How to get browser width using JavaScript code?",
+                "excerpt": "I am trying to write a JavaScript function to get the current browser width.\n\nI found this one:\n\njavascript:alert(document.body.offsetWidth);\r\nBut its problem that it fail if the body has width 100%.\n\n...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2009-06-24 14:28:22Z",
+                "vote_count": 187,
+                "answer_count": 8,
+                "view_count": 277999,
+                "author": {
+                    "id": "amr-elgarhy",
+                    "link": "https://stackoverflow.com/users/20126/amr-elgarhy",
+                    "name": "Amr Elgarhy",
+                    "avatar": "https://www.gravatar.com/avatar/22fc146c1512cdb4d381222dcbc8b9f8?s=32&d=identicon&r=PG",
+                    "reputation_score": 57920,
+                    "badges": {
+                        "gold": 67,
+                        "silver": 176,
+                        "bronze": 289
+                    }
+                }
+            },
+            {
+                "id": 1960939,
+                "link": "https://stackoverflow.com/questions/1960939/disabling-browser-print-options-headers-footers-margins-from-page",
+                "title": "Disabling browser print options (headers, footers, margins) from page?",
+                "excerpt": "I have seen this question asked in a couple of different ways on SO and several other websites, but most of them are either too specific or out-of-date. I'm hoping someone can provide a definitive ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "browser",
+                    "printing"
+                ],
+                "time_posted": "2009-12-25 10:33:32Z",
+                "vote_count": 185,
+                "answer_count": 9,
+                "view_count": 252553,
+                "author": {
+                    "id": "anthony",
+                    "link": "https://stackoverflow.com/users/49478/anthony",
+                    "name": "Anthony",
+                    "avatar": "https://www.gravatar.com/avatar/6c42283aeb1521ae0e27bd41b7fdb227?s=32&d=identicon&r=PG",
+                    "reputation_score": 33764,
+                    "badges": {
+                        "gold": 22,
+                        "silver": 90,
+                        "bronze": 154
+                    }
+                }
+            },
+            {
+                "id": 3404508,
+                "link": "https://stackoverflow.com/questions/3404508/cross-browser-multi-line-text-overflow-with-ellipsis-appended-within-a-fixed-wid",
+                "title": "Cross-browser multi-line text overflow with ellipsis appended within a fixed width and height",
+                "excerpt": "I made an image for this question to make it easier to understand.\n\nIs it possible to create an ellipsis on a <div> with a fixed width and multiple lines?\r\nI\u2019ve tried some jQuery plugins out ...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2010-08-04 10:11:31Z",
+                "vote_count": 184,
+                "answer_count": 25,
+                "view_count": 98693,
+                "author": {
+                    "id": "edward",
+                    "link": "https://stackoverflow.com/users/153626/edward",
+                    "name": "Edward",
+                    "avatar": "https://www.gravatar.com/avatar/165a7f0c2cf2491691678295ff899f0e?s=32&d=identicon&r=PG",
+                    "reputation_score": 4659,
+                    "badges": {
+                        "gold": 8,
+                        "silver": 33,
+                        "bronze": 41
+                    }
+                }
+            },
+            {
+                "id": 5003220,
+                "link": "https://stackoverflow.com/questions/5003220/animate-element-to-auto-height-with-jquery",
+                "title": "Animate element to auto height with jQuery",
+                "excerpt": "I want to animate a <div> from 200px to auto height. I can\u2019t seem to make it work though. Does anyone know how?\n\nHere\u2019s the code:\n\n$(\"div:first\").click(function(){\n  $(\"#first\").animate({\n    ...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css",
+                    "jquery-animate"
+                ],
+                "time_posted": "2011-02-15 11:45:58Z",
+                "vote_count": 174,
+                "answer_count": 21,
+                "view_count": 182339,
+                "author": {
+                    "id": "daniel",
+                    "link": "https://stackoverflow.com/users/617687/daniel",
+                    "name": "Daniel",
+                    "avatar": "https://www.gravatar.com/avatar/077167d24f2291699324c087b8b6d6b7?s=32&d=identicon&r=PG",
+                    "reputation_score": 1809,
+                    "badges": {
+                        "gold": 2,
+                        "silver": 12,
+                        "bronze": 7
+                    }
+                }
+            },
+            {
+                "id": 7439042,
+                "link": "https://stackoverflow.com/questions/7439042/css-js-to-prevent-dragging-of-ghost-image",
+                "title": "CSS /JS to prevent dragging of ghost image?",
+                "excerpt": "Is there a way to prevent the user from seeing a ghost of the image they are trying to drag (not concern about security of the images, but the experience).\n\nI've tried this which fixes the problem ...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2011-09-16 00:46:11Z",
+                "vote_count": 174,
+                "answer_count": 19,
+                "view_count": 155501,
+                "author": {
+                    "id": "user885355",
+                    "link": "https://stackoverflow.com/users/885355/user885355",
+                    "name": "user885355",
+                    "avatar": "https://www.gravatar.com/avatar/e4481cbfd2b75e451a981e20a2501940?s=32&d=identicon&r=PG",
+                    "reputation_score": 2579,
+                    "badges": {
+                        "gold": 4,
+                        "silver": 15,
+                        "bronze": 10
+                    }
+                }
+            },
+            {
+                "id": 3934271,
+                "link": "https://stackoverflow.com/questions/3934271/horizontal-scrollbar-on-top-and-bottom-of-table",
+                "title": "horizontal scrollbar on top and bottom of table",
+                "excerpt": "I've a very large table on my page. So I decided to put a horizontal scrollbar on the bottom of the table. But I would like this scrollbar to be also on top on the table.\n\nWhat I have in the template ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2010-10-14 14:32:42Z",
+                "vote_count": 174,
+                "answer_count": 19,
+                "view_count": 245244,
+                "author": {
+                    "id": "psoares",
+                    "link": "https://stackoverflow.com/users/426176/psoares",
+                    "name": "psoares",
+                    "avatar": "https://www.gravatar.com/avatar/736efb9e6d0a51445283eba773b65bdb?s=32&d=identicon&r=PG",
+                    "reputation_score": 3904,
+                    "badges": {
+                        "gold": 7,
+                        "silver": 32,
+                        "bronze": 52
+                    }
+                }
+            },
+            {
+                "id": 30663562,
+                "link": "https://stackoverflow.com/questions/30663562/use-images-like-checkboxes",
+                "title": "Use images like checkboxes",
+                "excerpt": "I would like to have an alternative to a standard checkbox - basically I'd like to use images and when the user clicks the image, fade it out and overlay a tick box.\n\nIn essence, I want to do ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "css",
+                    "html"
+                ],
+                "time_posted": "2015-06-05 09:55:01Z",
+                "vote_count": 171,
+                "answer_count": 7,
+                "view_count": 85237,
+                "author": {
+                    "id": "bgs264",
+                    "link": "https://stackoverflow.com/users/270392/bgs264",
+                    "name": "bgs264",
+                    "avatar": "https://www.gravatar.com/avatar/7451ed8d470090704c0794cb9a982c46?s=32&d=identicon&r=PG",
+                    "reputation_score": 4332,
+                    "badges": {
+                        "gold": 6,
+                        "silver": 32,
+                        "bronze": 67
+                    }
+                }
+            },
+            {
+                "id": 1084925,
+                "link": "https://stackoverflow.com/questions/1084925/input-type-file-show-only-button",
+                "title": "input type=file show only button",
+                "excerpt": "Is there a way to style (or script) <input type=file /> element to have visible only \"Browse\" button without text field?\n\nThanks\n\nEdit:\nJust to clarify why to I need this. I'm using multi file ...",
+                "status": "answered",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2009-07-05 22:07:19Z",
+                "vote_count": 164,
+                "answer_count": 32,
+                "view_count": 250902,
+                "author": {
+                    "id": "andrija",
+                    "link": "https://stackoverflow.com/users/84852/andrija",
+                    "name": "Andrija",
+                    "avatar": "https://www.gravatar.com/avatar/24ec90716ce5b6b4cba1745ef6feac7a?s=32&d=identicon&r=PG&f=1",
+                    "reputation_score": 12233,
+                    "badges": {
+                        "gold": 16,
+                        "silver": 50,
+                        "bronze": 72
+                    }
+                }
+            },
+            {
+                "id": 9900311,
+                "link": "https://stackoverflow.com/questions/9900311/how-do-i-target-only-internet-explorer-10-for-certain-situations-like-internet-e",
+                "title": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?",
+                "excerpt": "How do I target only Internet Explorer 10 for certain situations like Internet Explorer-specific CSS or Internet Explorer-specific JavaScript code?\n\nI tried this, but it doesn't work:\n\n<!--[if IE ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "internet-explorer-10",
+                    "conditional-comments"
+                ],
+                "time_posted": "2012-03-28 02:21:32Z",
+                "vote_count": 160,
+                "answer_count": 25,
+                "view_count": 162849,
+                "author": {
+                    "id": "trusktr",
+                    "link": "https://stackoverflow.com/users/454780/trusktr",
+                    "name": "trusktr",
+                    "avatar": "https://www.gravatar.com/avatar/d8238ae773f9d75e510abe305209189f?s=32&d=identicon&r=PG",
+                    "reputation_score": 33391,
+                    "badges": {
+                        "gold": 40,
+                        "silver": 142,
+                        "bronze": 217
+                    }
+                }
+            },
+            {
+                "id": 13338780,
+                "link": "https://stackoverflow.com/questions/13338780/how-to-make-twitter-bootstrap-tooltips-have-multiple-lines",
+                "title": "How to make Twitter Bootstrap tooltips have multiple lines?",
+                "excerpt": "I am currently using the below function to create text that will be displayed using Bootstrap\u2019s tooltip plugin. How come multiline tooltips only work with <br> and not \\n? I prefer that there is ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "html",
+                    "css",
+                    "twitter-bootstrap"
+                ],
+                "time_posted": "2012-11-12 05:25:42Z",
+                "vote_count": 159,
+                "answer_count": 6,
+                "view_count": 133787,
+                "author": {
+                    "id": "matthew-hui",
+                    "link": "https://stackoverflow.com/users/577277/matthew-hui",
+                    "name": "Matthew Hui",
+                    "avatar": "https://www.gravatar.com/avatar/4a042b8382a008d344561c8301509f3a?s=32&d=identicon&r=PG",
+                    "reputation_score": 3231,
+                    "badges": {
+                        "gold": 2,
+                        "silver": 22,
+                        "bronze": 37
+                    }
+                }
+            },
+            {
+                "id": 15555295,
+                "link": "https://stackoverflow.com/questions/15555295/how-to-disable-div-element-and-everything-inside",
+                "title": "how to disable DIV element and everything inside [duplicate]",
+                "excerpt": "I need to disable a DIV and all it's content using Javascript.  I can swear that doing a simple \n\n<div disabled=\"true\"> \r\nwas working for me before, but for some reason it no longer works.  I ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2013-03-21 18:26:47Z",
+                "vote_count": 157,
+                "answer_count": 5,
+                "view_count": 522478,
+                "author": {
+                    "id": "marquinio",
+                    "link": "https://stackoverflow.com/users/466410/marquinio",
+                    "name": "Marquinio",
+                    "avatar": "https://www.gravatar.com/avatar/e048a299c7ddc828e89f1b5fb166a2a6?s=32&d=identicon&r=PG",
+                    "reputation_score": 3873,
+                    "badges": {
+                        "gold": 10,
+                        "silver": 41,
+                        "bronze": 61
+                    }
+                }
+            },
+            {
+                "id": 18922880,
+                "link": "https://stackoverflow.com/questions/18922880/html5-canvas-resize-downscale-image-high-quality",
+                "title": "HTML5 Canvas Resize (Downscale) Image High Quality?",
+                "excerpt": "I use html5 canvas elements to resize images im my browser. It turns out that the quality is very low. I found this: Disable Interpolation when Scaling a <canvas> but it does not help to ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "css",
+                    "html",
+                    "canvas",
+                    "html5-canvas"
+                ],
+                "time_posted": "2013-09-20 17:48:58Z",
+                "vote_count": 157,
+                "answer_count": 14,
+                "view_count": 158987,
+                "author": {
+                    "id": "confile",
+                    "link": "https://stackoverflow.com/users/1055664/confile",
+                    "name": "confile",
+                    "avatar": "https://i.stack.imgur.com/mwVul.jpg?s=32&g=1",
+                    "reputation_score": 28495,
+                    "badges": {
+                        "gold": 44,
+                        "silver": 184,
+                        "bronze": 338
+                    }
+                }
+            },
+            {
+                "id": 6014702,
+                "link": "https://stackoverflow.com/questions/6014702/how-do-i-detect-shiftenter-and-generate-a-new-line-in-textarea",
+                "title": "How do I detect \u201cshift+enter\u201d and generate a new line in Textarea?",
+                "excerpt": "Currently, if the person presses enter inside the text area, the form will submit.\nGood, I want that.\n\nBut when they type shift + enter, I want the textarea to move to the next line: \\n \n\nHow can I do ...",
+                "status": "answered accepted",
+                "tags": [
+                    "javascript",
+                    "jquery",
+                    "html",
+                    "css"
+                ],
+                "time_posted": "2011-05-16 08:19:13Z",
+                "vote_count": 155,
+                "answer_count": 13,
+                "view_count": 116679,
+                "author": {
+                    "id": "timex",
+                    "link": "https://stackoverflow.com/users/179736/timex",
+                    "name": "TIMEX",
+                    "avatar": "https://www.gravatar.com/avatar/e77327f7ef0c6213525de4dcea19b200?s=32&d=identicon&r=PG",
+                    "reputation_score": 210926,
+                    "badges": {
+                        "gold": 317,
+                        "silver": 719,
+                        "bronze": 1026
+                    }
+                }
+            }
+        ]
+    }
+}
